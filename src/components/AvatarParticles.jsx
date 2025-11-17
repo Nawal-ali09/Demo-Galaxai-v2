@@ -63,7 +63,7 @@ export default function AvatarParticles({ nodes }) {
         nodes.Wolf3D_Outfit_Top,
         // nodes.Wolf3D_Hair,
         nodes.Wolf3D_Head,
-        nodes.Wolf3D_Teeth,
+        // nodes.Wolf3D_Teeth,
         // nodes.EyeLeft,
         // nodes.EyeRight,
       ].map((part, i) => (
