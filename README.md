@@ -1,6 +1,6 @@
+To Run the Project
 
-![Thumbnail](https://github.com/wass08/r3f-lipsync-tutorial/assets/6551176/b53625c5-88d0-4a84-ae4b-3da63d40b240)
+yarn
 
-[Live preview](https://r3f-lipsync-tutorial.vercel.app/)
+yarn dev
 
-[Video tutorial](https://youtu.be/egQFAeu6Ihw)
